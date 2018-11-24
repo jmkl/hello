@@ -1,2 +1,5 @@
-import sys,os
+import os
+
 print("Hello")
+print(os.getcwd())
+
